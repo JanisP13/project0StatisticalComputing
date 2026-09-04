@@ -3,4 +3,4 @@ title: "project0"
 output: html_document
 ---
 
-hello there
+hello there I will now be working on project O for my Statistical Computing Class
