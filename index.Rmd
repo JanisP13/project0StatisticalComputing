@@ -9,15 +9,18 @@ links:
   - label: Email
     url: "mailto:janisprak@gmail.com"
 output:
-  postcards::jolla_blue
+  postcards::solana
 ---
- 
-# About Me
+# Welcome! {.tabset}
+## About Me 
 
 Hello there! My name is Janis, and I am originally from Southern California :) After highschool, I went to Orange Coast College to get my associate degrees in Biology, Chemistry, and Natural Sciences. Then, I transferred to UC Berkeley, where I double majored in Microbial Biology (B.S.) and Molecular & Cell Biology (B.A.). In my final semester, I was accepted into Johns Hopkins' Post-baccalaureate Education Program (PREP), and I have since moved to Baltimore, MD, my very first time living outside of California!
 
 Outside my time in academics, some things I love to do are reading, exploring the city, and playing minecraft with my friends from home. My favorite book I've read this year is Project Hail Mary by Andy Weir, and I've been working my way through the Dungeon Crawler Carl book series. My favorite place I've been to in Maryland has probably been the Maryland Renaissance Festival, but I hope to have many more adventures in the next year that I will be here!
 
-# Academic Interests
+## Academic Interests
 * Host-pathogen interactions
-- I am currently a PREP scholar in the Mugnier Lab! I am studying the antigen variation of *Trypanosoma brucei gambiense* which is the causative agent of Sleeping Sickness, a disease that is endemic to sub-saharan Africa. 
+  - I am currently a PREP scholar in the Mugnier Lab! I am studying the antigen variation of *Trypanosoma brucei gambiense* which is the causative agent of Sleeping Sickness, a disease that is endemic to sub-saharan Africa. 
+  
+## My Aventures!
+1. 
