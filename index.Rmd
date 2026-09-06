@@ -1,6 +1,6 @@
 ---
 title: "Janis Prak"
-image: ""
+image: "IMG_3040.pjg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/janis-prak-487944270/"
