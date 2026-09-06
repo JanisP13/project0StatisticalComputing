@@ -4,3 +4,16 @@ output: html_document
 ---
 
 hello there I will now be working on project O for my Statistical Computing Class
+
+```{r}
+#install.packages(
+#    c("postcards", "usethis", "gitcreds")
+#)
+library(postcards)
+library(usethis)
+library(gitcreds)
+```
+
+```{r}
+
+```
