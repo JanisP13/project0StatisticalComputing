@@ -15,5 +15,5 @@ library(gitcreds)
 ```
 
 ```{r}
-
+postcards::create_postcard(template = "jolla-blue")
 ```

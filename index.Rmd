@@ -1,0 +1,17 @@
+---
+title: "Janis Prak"
+image: ""
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/janis-prak-487944270/"
+  - label: GitHub
+    url: "https://github.com/JanisP13"
+  - label: Email
+    url: "mailto:janisprak@gmail.com"
+output:
+  postcards::jolla_blue
+---
+ 
+# About Me
+
+I am from California
