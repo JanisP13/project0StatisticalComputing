@@ -1,4 +1,1 @@
-# test
-Repository for testing my Git/GitHub setup
-
-hello there
+# Project 0
